@@ -5,6 +5,7 @@ Daily market reflections and trade logs.
 ## Entries
 
 - [ledger](ledger.md)
+- [2026-02-26](2026-02-26.md)
 - [2026-02-25](2026-02-25.md)
 - [2026-02-24](2026-02-24.md)
 - [2026-02-23](2026-02-23.md)
