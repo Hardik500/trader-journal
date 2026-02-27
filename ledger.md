@@ -9,6 +9,7 @@
 | 2026-02-23 | ₹9,954 | ₹0 | ₹0 | ₹9,909.03 | -₹44.97 | HDFC + PNB loss |
 | 2026-02-24 | ₹9,909.03 | ₹0 | ₹0 | ₹9,710.80 | -₹198.23 | BANKBARODA auto-squareoff loss |
 | 2026-02-26 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — waited for setups |
+| 2026-02-27 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — volatile, GDP data awaited |
 
 ---
 
@@ -40,6 +41,11 @@
 |---|------|--------|--------|-----|-------|------|-----|------|
 | - | - | NO TRADES | - | - | - | - | ₹0 | No setups triggered |
 
+### February 27, 2026 (Friday)
+| # | Time | Symbol | Action | Qty | Entry | Exit | P&L | Type |
+|---|------|--------|--------|-----|-------|------|-----|------|
+| - | - | NO TRADES | - | - | - | - | ₹0 | Volatile market, GDP data awaited |
+
 ---
 
 ## Statistics (Since Inception)
@@ -50,6 +56,7 @@
 - **Total Trades:** 3
 - **Win Rate:** 0% (0/3)
 - **Trading Days:** 3 (with trades)
+- **Days Skipped (Discipline):** 5 (Feb 21, 25, 26, 27)
 
 ---
 
@@ -65,9 +72,9 @@
 | Total P&L | -₹289.20 |
 | Best Trade | N/A |
 | Worst Trade | BANKBARODA (-₹243.20) |
-| Days with No Trades | 3 (Feb 21, 25, 26) |
+| Days with No Trades | 4 (Feb 21, 25, 26, 27) |
 
 ---
 
-*Last Updated: 2026-02-26*
+*Last Updated: 2026-02-27*
 *Note: Corrected Feb 24 BANKBARODA P&L from +₹43.20 to -₹243.20 (auto-squareoff at 3:20 PM)*
