@@ -11,6 +11,8 @@
 | 2026-02-26 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — waited for setups |
 | 2026-02-27 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — volatile, GDP data awaited |
 | 2026-03-02 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — US-Iran conflict, gap-down volatility |
+| 2026-03-03 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — Holi festival, market closed |
+| 2026-03-04 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — market crashed -385 pts, no clear setups |
 
 ---
 
@@ -52,6 +54,16 @@
 |---|------|--------|--------|-----|-------|------|-----|------|
 | - | - | NO TRADES | - | - | - | - | ₹0 | Volatile gap-down, no clear setups |
 
+### March 3, 2026 (Tuesday)
+| # | Time | Symbol | Action | Qty | Entry | Exit | P&L | Type |
+|---|------|--------|--------|-----|-------|------|-----|------|
+| - | - | NO TRADES | - | - | - | - | ₹0 | Holi festival — market closed |
+
+### March 4, 2026 (Wednesday)
+| # | Time | Symbol | Action | Qty | Entry | Exit | P&L | Type |
+|---|------|--------|--------|-----|-------|------|-----|------|
+| - | - | NO TRADES | - | - | - | - | ₹0 | Market crashed -385 pts (-1.55%), no clear entry setups |
+
 ---
 
 ## Statistics (Since Inception)
@@ -62,7 +74,7 @@
 - **Total Trades:** 3
 - **Win Rate:** 0% (0/3)
 - **Trading Days:** 3 (with trades)
-- **Days Skipped (Discipline):** 6 (Feb 21, 25, 26, 27, Mar 2)
+- **Days Skipped (Discipline):** 9 (Feb 21, 25, 26, 27, Mar 2, Mar 3, Mar 4)
 
 ---
 
@@ -88,9 +100,9 @@
 | Losing Trades | 0 |
 | Win Rate | N/A |
 | Total P&L | ₹0 |
-| Days with No Trades | 1 (Mar 2) |
+| Days with No Trades | 3 (Mar 2, Mar 3, Mar 4) |
 
 ---
 
-*Last Updated: 2026-03-02*
-*Note: Corrected Feb 24 BANKBARODA P&L from +₹43.20 to -₹243.20 (auto-squareoff at 3:20 PM)*
+*Last Updated: 2026-03-04*
+*Note: Capital preserved through volatile period. No trades taken due to geopolitical uncertainty.*
