@@ -14,6 +14,7 @@
 | 2026-03-03 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — Holi festival, market closed |
 | 2026-03-04 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — market crashed -385 pts, no clear setups |
 | 2026-03-05 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — volatile market, stayed disciplined |
+| 2026-03-09 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — massive gap-down (-2.28%), sat out correctly |
 
 ---
 
@@ -56,6 +57,9 @@
 ### March 5, 2026 (Thursday)
 - NO TRADES
 
+### March 9, 2026 (Monday)
+- NO TRADES
+
 ---
 
 ## Statistics (Since Inception)
@@ -66,4 +70,4 @@
 - **Total Trades:** 3
 - **Win Rate:** 0% (0/3)
 
-*Last Updated: 2026-03-05*
+*Last Updated: 2026-03-09*
