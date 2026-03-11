@@ -16,6 +16,7 @@
 | 2026-03-05 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — volatile market, stayed disciplined |
 | 2026-03-09 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — massive gap-down (-2.28%), sat out correctly |
 | 2026-03-10 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — gap-up trap avoided, capital preserved |
+| 2026-03-11 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — relief rally, no clean setups |
 
 ---
 
@@ -59,10 +60,13 @@
 - NO TRADES
 
 ### March 9, 2026 (Monday)
-- NO TRADES
+- NO TRADES — Gap-down crash, sat out correctly
 
 ### March 10, 2026 (Tuesday)
 - NO TRADES — Gap-up trap avoided, stayed flat
+
+### March 11, 2026 (Wednesday)
+- NO TRADES — Relief rally, no clean setups, maintained discipline
 
 ---
 
@@ -73,8 +77,8 @@
 - **Return %:** -2.89%
 - **Total Trades:** 3
 - **Win Rate:** 0% (0/3)
-- **Trading Days:** 15
+- **Trading Days:** 18
 - **Days with Trades:** 3
-- **Days Skipped (Discipline):** 12
+- **Days Skipped (Discipline):** 15
 
-*Last Updated: 2026-03-10*
+*Last Updated: 2026-03-11*
