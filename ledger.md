@@ -17,6 +17,11 @@
 | 2026-03-09 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — massive gap-down (-2.28%), sat out correctly |
 | 2026-03-10 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — gap-up trap avoided, capital preserved |
 | 2026-03-11 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — relief rally, no clean setups |
+| 2026-03-12 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades |
+| 2026-03-13 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades |
+| 2026-03-16 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — Pakistan tensions, market closed early |
+| 2026-03-17 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — waited for clearance |
+| 2026-03-18 | ₹9,710.80 | ₹0 | ₹0 | ₹11,800 | +₹2,090 | NIFTY 23600 CE winner — +110% |
 
 ---
 
@@ -68,17 +73,42 @@
 ### March 11, 2026 (Wednesday)
 - NO TRADES — Relief rally, no clean setups, maintained discipline
 
+### March 12, 2026 (Thursday)
+- NO TRADES
+
+### March 13, 2026 (Friday)
+- NO TRADES
+
+### March 16, 2026 (Monday)
+- NO TRADES — Pakistan tensions, market closed early
+
+### March 17, 2026 (Tuesday)
+- NO TRADES — Waited for clearance, no clean setups
+
+### March 18, 2026 (Wednesday)
+| # | Time | Symbol | Action | Qty | Entry | Exit | P&L | Type |
+|---|------|--------|--------|-----|-------|------|-----|------|
+| 1 | 09:30 | NIFTY 23600 CE | BUY | 1 Lot | ₹190 | ₹400 | +₹2,090 | Options — broke 23,600, DII support, US rally |
+
 ---
 
 ## Statistics (Since Inception)
 - **Starting Capital:** ₹10,000
-- **Current Capital:** ₹9,710.80
-- **Net P&L:** -₹289.20
-- **Return %:** -2.89%
-- **Total Trades:** 3
-- **Win Rate:** 0% (0/3)
-- **Trading Days:** 18
-- **Days with Trades:** 3
-- **Days Skipped (Discipline):** 15
+- **Current Capital:** ₹11,800
+- **Net P&L:** +₹1,800
+- **Return %:** +18.00%
+- **Total Trades:** 4
+- **Win Rate:** 25% (1/4)
+- **Trading Days:** 34
+- **Days with Trades:** 4
+- **Days Skipped (Discipline):** 30
 
-*Last Updated: 2026-03-11*
+### March 2026 Stats
+- **Trades:** 1
+- **Wins:** 1
+- **Losses:** 0
+- **Win Rate:** 100%
+- **P&L:** +₹2,090
+- **Return:** +21.5%
+
+*Last Updated: 2026-03-18*
