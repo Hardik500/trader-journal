@@ -23,6 +23,7 @@
 | 2026-03-17 | ₹9,710.80 | ₹0 | ₹0 | ₹9,710.80 | +₹0 | No trades — waited for clearance |
 | 2026-03-18 | ₹9,710.80 | ₹0 | ₹0 | ₹11,800 | +₹2,090 | NIFTY 23600 CE winner — +110% |
 | 2026-03-19 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — post-rally consolidation, waited for setup |
+| 2026-03-20 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — massive rebound +326 pts, no clean setups |
 
 ---
 
@@ -94,6 +95,9 @@
 ### March 19, 2026 (Thursday)
 - NO TRADES — Post-rally consolidation, no clear setups, maintained discipline
 
+### March 20, 2026 (Friday)
+- NO TRADES — Massive market rebound +326 pts, waited for clean setup, stayed disciplined
+
 ---
 
 ## Statistics (Since Inception)
@@ -103,9 +107,9 @@
 - **Return %:** +18.00%
 - **Total Trades:** 4
 - **Win Rate:** 25% (1/4)
-- **Trading Days:** 35
+- **Trading Days:** 36
 - **Days with Trades:** 4
-- **Days Skipped (Discipline):** 31
+- **Days Skipped (Discipline):** 32
 
 ### March 2026 Stats
 - **Trades:** 1
@@ -115,4 +119,4 @@
 - **P&L:** +₹2,090
 - **Return:** +21.5%
 
-*Last Updated: 2026-03-19*
+*Last Updated: 2026-03-20*
