@@ -25,6 +25,7 @@
 | 2026-03-19 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — post-rally consolidation, waited for setup |
 | 2026-03-20 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — massive rebound +326 pts, no clean setups |
 | 2026-03-23 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — post-rally consolidation, waited for clean setup |
+| 2026-03-24 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — market crash -3.26%, Bank Nifty +0.92%, sat out |
 
 ---
 
@@ -102,6 +103,9 @@
 ### March 23, 2026 (Monday)
 - NO TRADES — Post-rally consolidation, waited for clean setup, maintained capital
 
+### March 24, 2026 (Tuesday)
+- NO TRADES — Market crash -3.26% (worst back-to-back decline), Bank Nifty +0.92% (DII support), correctly sat out
+
 ---
 
 ## Statistics (Since Inception)
@@ -111,9 +115,9 @@
 - **Return %:** +18.00%
 - **Total Trades:** 4
 - **Win Rate:** 25% (1/4)
-- **Trading Days:** 37
+- **Trading Days:** 38
 - **Days with Trades:** 4
-- **Days Skipped (Discipline):** 33
+- **Days Skipped (Discipline):** 34
 
 ### March 2026 Stats
 - **Trades:** 1
@@ -123,4 +127,4 @@
 - **P&L:** +₹2,090
 - **Return:** +21.5%
 
-*Last Updated: 2026-03-23*
+*Last Updated: 2026-03-24*
