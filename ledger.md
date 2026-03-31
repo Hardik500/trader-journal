@@ -26,6 +26,13 @@
 | 2026-03-20 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — massive rebound +326 pts, no clean setups |
 | 2026-03-23 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — post-rally consolidation, waited for clean setup |
 | 2026-03-24 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — market crash -3.26%, Bank Nifty +0.92%, sat out |
+| 2026-03-25 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Wednesday |
+| 2026-03-26 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Thursday |
+| 2026-03-27 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Friday |
+| 2026-03-28 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Saturday |
+| 2026-03-29 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Sunday, market closed |
+| 2026-03-30 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — waited for clean setup, post-crash recovery |
+| 2026-03-31 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — consolidation, month-end caution |
 
 ---
 
@@ -106,6 +113,27 @@
 ### March 24, 2026 (Tuesday)
 - NO TRADES — Market crash -3.26% (worst back-to-back decline), Bank Nifty +0.92% (DII support), correctly sat out
 
+### March 25, 2026 (Wednesday)
+- NO TRADES
+
+### March 26, 2026 (Thursday)
+- NO TRADES
+
+### March 27, 2026 (Friday)
+- NO TRADES
+
+### March 28, 2026 (Saturday)
+- NO TRADES
+
+### March 29, 2026 (Sunday)
+- NO TRADES — Market closed (weekend)
+
+### March 30, 2026 (Monday)
+- NO TRADES — Post-crash recovery, waited for clean setup, maintained discipline
+
+### March 31, 2026 (Tuesday)
+- NO TRADES — Month-end consolidation, watched for setups, maintained discipline
+
 ---
 
 ## Statistics (Since Inception)
@@ -115,9 +143,9 @@
 - **Return %:** +18.00%
 - **Total Trades:** 4
 - **Win Rate:** 25% (1/4)
-- **Trading Days:** 38
+- **Trading Days:** 40
 - **Days with Trades:** 4
-- **Days Skipped (Discipline):** 34
+- **Days Skipped (Discipline):** 36
 
 ### March 2026 Stats
 - **Trades:** 1
@@ -125,6 +153,9 @@
 - **Losses:** 0
 - **Win Rate:** 100%
 - **P&L:** +₹2,090
-- **Return:** +21.5%
+- **Return:** +17.7%
+- **Trading Days:** 8
+- **Days with Trades:** 1
+- **Days Skipped:** 7
 
-*Last Updated: 2026-03-24*
+*Last Updated: 2026-03-31*
