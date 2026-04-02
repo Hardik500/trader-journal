@@ -34,6 +34,7 @@
 | 2026-03-30 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — waited for clean setup, post-crash recovery |
 | 2026-03-31 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — consolidation, month-end caution |
 | 2026-04-01 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — OpenAlgo API down all day |
+| 2026-04-02 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Gap-down volatility, correctly sat out |
 
 ---
 
@@ -138,6 +139,9 @@
 ### April 1, 2026 (Wednesday)
 - NO TRADES — OpenAlgo API down all day (connection refused), market up +2.1% but couldn't trade
 
+### April 2, 2026 (Thursday)
+- NO TRADES — Gap-down volatility (Nifty -2.1% at lows), correctly sat out, capital preserved
+
 ---
 
 ## Statistics (Since Inception)
@@ -169,8 +173,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 1
+- **Trading Days:** 2
 - **Days with Trades:** 0
-- **Days Skipped:** 1
+- **Days Skipped:** 2
 
-*Last Updated: 2026-04-01*
+*Last Updated: 2026-04-02*
