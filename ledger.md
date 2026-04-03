@@ -35,6 +35,7 @@
 | 2026-03-31 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — consolidation, month-end caution |
 | 2026-04-01 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — OpenAlgo API down all day |
 | 2026-04-02 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Gap-down volatility, correctly sat out |
+| 2026-04-03 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — NSE/BSE closed for Good Friday |
 
 ---
 
@@ -142,6 +143,9 @@
 ### April 2, 2026 (Thursday)
 - NO TRADES — Gap-down volatility (Nifty -2.1% at lows), correctly sat out, capital preserved
 
+### April 3, 2026 (Friday)
+- NO TRADES — NSE/BSE closed for Good Friday
+
 ---
 
 ## Statistics (Since Inception)
@@ -173,8 +177,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 2
+- **Trading Days:** 3
 - **Days with Trades:** 0
-- **Days Skipped:** 2
+- **Days Skipped:** 3
 
-*Last Updated: 2026-04-02*
+*Last Updated: 2026-04-03*
