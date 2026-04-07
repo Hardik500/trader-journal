@@ -37,6 +37,7 @@
 | 2026-04-02 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — Gap-down volatility, correctly sat out |
 | 2026-04-03 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — NSE/BSE closed for Good Friday |
 | 2026-04-06 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — volatile market, waited for RBI |
+| 2026-04-07 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — neutral bias, no clear setups |
 
 ---
 
@@ -150,6 +151,9 @@
 ### April 6, 2026 (Monday)
 - NO TRADES — Market volatile (opened -0.75%, closed +1.12%), waited for clear setup ahead of RBI policy, maintained discipline
 
+### April 7, 2026 (Tuesday)
+- NO TRADES — Neutral bias, no clear setups, maintained capital discipline
+
 ---
 
 ## Statistics (Since Inception)
@@ -159,9 +163,9 @@
 - **Return %:** +18.00%
 - **Total Trades:** 4
 - **Win Rate:** 25% (1/4)
-- **Trading Days:** 41
+- **Trading Days:** 42
 - **Days with Trades:** 4
-- **Days Skipped (Discipline):** 37
+- **Days Skipped (Discipline):** 38
 
 ### March 2026 Stats
 - **Trades:** 1
@@ -181,8 +185,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 4
+- **Trading Days:** 5
 - **Days with Trades:** 0
-- **Days Skipped:** 4
+- **Days Skipped:** 5
 
-*Last Updated: 2026-04-06*
+*Last Updated: 2026-04-07*
