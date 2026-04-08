@@ -38,6 +38,7 @@
 | 2026-04-03 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — NSE/BSE closed for Good Friday |
 | 2026-04-06 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — volatile market, waited for RBI |
 | 2026-04-07 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — neutral bias, no clear setups |
+| 2026-04-08 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — RBI policy + US-Iran ceasefire, massive +3.78% rally |
 
 ---
 
@@ -154,6 +155,9 @@
 ### April 7, 2026 (Tuesday)
 - NO TRADES — Neutral bias, no clear setups, maintained capital discipline
 
+### April 8, 2026 (Wednesday)
+- NO TRADES — RBI MPC policy + US-Iran ceasefire, massive +3.78% rally (Nifty +873 pts), correctly sat out
+
 ---
 
 ## Statistics (Since Inception)
@@ -185,8 +189,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 5
+- **Trading Days:** 6
 - **Days with Trades:** 0
-- **Days Skipped:** 5
+- **Days Skipped:** 6
 
-*Last Updated: 2026-04-07*
+*Last Updated: 2026-04-08*
