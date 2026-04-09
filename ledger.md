@@ -39,6 +39,7 @@
 | 2026-04-06 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — volatile market, waited for RBI |
 | 2026-04-07 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — neutral bias, no clear setups |
 | 2026-04-08 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — RBI policy + US-Iran ceasefire, massive +3.78% rally |
+| 2026-04-09 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — API unresponsive, market reversed -0.83% |
 
 ---
 
@@ -158,6 +159,9 @@
 ### April 8, 2026 (Wednesday)
 - NO TRADES — RBI MPC policy + US-Iran ceasefire, massive +3.78% rally (Nifty +873 pts), correctly sat out
 
+### April 9, 2026 (Thursday)
+- NO TRADES — API connection refused at market open, no clean setups, market reversed -0.83% (Bank Nifty -4.7%)
+
 ---
 
 ## Statistics (Since Inception)
@@ -189,8 +193,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 6
+- **Trading Days:** 7
 - **Days with Trades:** 0
-- **Days Skipped:** 6
+- **Days Skipped:** 7
 
-*Last Updated: 2026-04-08*
+*Last Updated: 2026-04-09*
