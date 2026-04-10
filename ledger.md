@@ -40,6 +40,7 @@
 | 2026-04-07 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — neutral bias, no clear setups |
 | 2026-04-08 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — RBI policy + US-Iran ceasefire, massive +3.78% rally |
 | 2026-04-09 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — API unresponsive, market reversed -0.83% |
+| 2026-04-10 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — API unreachable, no clean ORB setups, strong rebound +1.16% |
 
 ---
 
@@ -162,6 +163,9 @@
 ### April 9, 2026 (Thursday)
 - NO TRADES — API connection refused at market open, no clean setups, market reversed -0.83% (Bank Nifty -4.7%)
 
+### April 10, 2026 (Friday)
+- NO TRADES — API unreachable all day, no clean 15-min ORB setups, strong market rebound +1.16% (Nifty 24,050)
+
 ---
 
 ## Statistics (Since Inception)
@@ -171,9 +175,9 @@
 - **Return %:** +18.00%
 - **Total Trades:** 4
 - **Win Rate:** 25% (1/4)
-- **Trading Days:** 42
+- **Trading Days:** 43
 - **Days with Trades:** 4
-- **Days Skipped (Discipline):** 38
+- **Days Skipped (Discipline):** 39
 
 ### March 2026 Stats
 - **Trades:** 1
@@ -193,8 +197,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 7
+- **Trading Days:** 8
 - **Days with Trades:** 0
-- **Days Skipped:** 7
+- **Days Skipped:** 8
 
-*Last Updated: 2026-04-09*
+*Last Updated: 2026-04-10*
