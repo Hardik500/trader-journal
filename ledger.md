@@ -41,6 +41,7 @@
 | 2026-04-08 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — RBI policy + US-Iran ceasefire, massive +3.78% rally |
 | 2026-04-09 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — API unresponsive, market reversed -0.83% |
 | 2026-04-10 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — API unreachable, no clean ORB setups, strong rebound +1.16% |
+| 2026-04-13 | ₹11,800 | ₹0 | ₹0 | ₹11,800 | +₹0 | No trades — consolidation, no clear setups |
 
 ---
 
@@ -166,6 +167,9 @@
 ### April 10, 2026 (Friday)
 - NO TRADES — API unreachable all day, no clean 15-min ORB setups, strong market rebound +1.16% (Nifty 24,050)
 
+### April 13, 2026 (Monday)
+- NO TRADES — Market consolidation, no clear 15-min ORB breakout setups, maintained discipline, capital preserved
+
 ---
 
 ## Statistics (Since Inception)
@@ -197,8 +201,8 @@
 - **Win Rate:** 0%
 - **P&L:** ₹0
 - **Return:** 0%
-- **Trading Days:** 8
+- **Trading Days:** 9
 - **Days with Trades:** 0
-- **Days Skipped:** 8
+- **Days Skipped:** 9
 
-*Last Updated: 2026-04-10*
+*Last Updated: 2026-04-13*
